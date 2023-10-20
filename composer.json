@@ -1,0 +1,18 @@
+{
+    "name": "greegman/route",
+    "description": "A simple router package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Greegman\\Route\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DGreegman",
+            "email": "obeagug@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
